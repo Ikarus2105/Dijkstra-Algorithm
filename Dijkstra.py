@@ -1,6 +1,5 @@
 #--------------------------------------
 #name: Dijkstra Algorithm in Python
-#author: Moritz Schoppe
 #version: v1.0
 #--------------------------------------
 
